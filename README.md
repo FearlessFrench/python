@@ -43,5 +43,4 @@ Working with strings and dictionaries, two fundamental Python data types
 
 <b>7 Working with External Libraries</b>
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
-
 </pre>
