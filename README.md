@@ -2,13 +2,14 @@
 Learn the most important language for data science.
 <pre>
 <b>Builds on</b>
-Intro to Programming
+<ins>Intro to Programming</ins>
 
 <b>Preparation for</b>
-Intro to Machine Learning
-Pandas
-Intro to SQL
-Intro to Game AI and Reinforcement Learning
+<ins>Intro to Machine Learning</ins>
+<ins>Pandas</ins>
+<ins>Intro to SQL</ins>
+<ins>Intro to Game AI and Reinforcement Learning</ins>
+<ins>Learning</ins>
 
 <b>Hours to earn certificate</b>
 5 (estimated)
@@ -17,7 +18,7 @@ Intro to Game AI and Reinforcement Learning
 No cost, like all Kaggle Learn Courses
 
 <b>Instructor</b>
-Colin Morris
+<ins>Colin Morris</ins>
 </pre>
 
 
